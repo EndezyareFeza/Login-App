@@ -1,10 +1,10 @@
 # login_app
 
-A new Flutter application.
+A new Flutter application for a simple login entrance screen.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application to learn Login requirements.
 
 A few resources to get you started if this is your first Flutter project:
 
